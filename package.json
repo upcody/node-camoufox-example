@@ -1,0 +1,18 @@
+{
+  "name": "camoufox-example",
+  "version": "1.0.0",
+  "description": "Express server that drives Camoufox for stealth navigation",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "echo \"No automated tests defined\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "camoufox": "^1.0.0",
+    "express": "^4.19.2"
+  }
+}
