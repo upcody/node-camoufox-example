@@ -1,0 +1,7 @@
+POST /visit
+Host: localhost:3000
+Content-Type: application/json
+
+{
+  "url": "https://www.wsj.com/economy/trade/ceo-tariffs-earnings-calls-optimism-6e7aa423"
+}
